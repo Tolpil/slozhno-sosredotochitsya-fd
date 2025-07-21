@@ -86,6 +86,7 @@
     font: var(--font-weight-page-text) var(--font-size-page-text) / 139% var(--main-font-family);
     font-style: normal;
     text-align: center;
+    text-transform: uppercase;
 }
 
 .rec::after {
