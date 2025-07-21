@@ -150,10 +150,6 @@
     gap: 20px;
 }
 
-.title-decor {
-    margin-bottom: 10px;
-}
-
 .main-section__title {
     padding-right: 7px;
     color: var(--decor-color);
@@ -219,6 +215,7 @@
 .title-decor {
     color: var(--title-color);
     background-color: var(--accent-color);
+    margin-bottom: 10px;
 }
 
 .main__in-photos__container {
