@@ -11,7 +11,7 @@
   --slogan-color: #db00ff;
   --accent-color-hover: rgba(255, 0, 112, 0.4);
   --text-color: #f1b2ce;
-  --main-font-family: "IBM Plex Mono", monospace;
+  --main-font-family: "IBM Plex Mono", monospace, Arial, sans-serif;
   --min-height: 668px;
   --min-width: 375px;
   --corner-size: 25px;

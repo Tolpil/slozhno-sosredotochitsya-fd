@@ -96,7 +96,7 @@
     height: 12px;
     margin-left: 9px;
     border-radius: 50%;
-    box-shadow: 0 0 4px 2px var(--accent-color);
+    box-shadow: 0 0 30px 2px var(--accent-color);
     background: var(--accent-color);
 }
 
@@ -155,7 +155,7 @@
     padding-right: 7px;
     color: var(--decor-color);
     font: var(--font-weight-page-title) var(--font-size-page-text) / 130% var(--main-font-family);
-    font-style: normal;
+    font-style: normal;    
 }
 
 .title-position {
@@ -220,7 +220,7 @@
 
 .main__in-photos__container {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    grid-template-columns: 1fr;
     grid-template-rows: min-content;
     gap: 10px;
     width: 100%;
